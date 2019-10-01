@@ -11,7 +11,7 @@ namespace Llista_jocs
         static void Main(string[] args)
         {
             Console.WriteLine("Escull un joc:");
-            Console.WriteLine("   1. buscamines");
+            Console.WriteLine("   1. Buscamines el joc");
             switch (Convert.ToInt32( Console.ReadLine()))
             {
                 case 1:
