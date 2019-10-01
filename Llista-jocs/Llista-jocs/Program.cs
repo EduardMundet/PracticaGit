@@ -11,11 +11,16 @@ namespace Llista_jocs
         static void Main(string[] args)
         {
             Console.WriteLine("Escull un joc:");
-            switch (Console.ReadLine())
+            Console.WriteLine("   1. buscamines");
+            switch (Convert.ToInt32( Console.ReadLine()))
             {
+                case 1:
+                    Console.WriteLine("has escollit buscamines (joc)");
+                    break;
                 default:
                     break;
             }
+
         }
     }
 }
