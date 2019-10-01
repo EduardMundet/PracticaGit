@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Llista-jocs", "Llista-jocs\Llista-jocs.csproj", "{B72220B4-E3FE-4264-9C9B-904A9208CAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72220B4-E3FE-4264-9C9B-904A9208CAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72220B4-E3FE-4264-9C9B-904A9208CAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72220B4-E3FE-4264-9C9B-904A9208CAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72220B4-E3FE-4264-9C9B-904A9208CAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0421C0-BE71-4D71-8269-7F704AEB3B79}
+	EndGlobalSection
+EndGlobal
